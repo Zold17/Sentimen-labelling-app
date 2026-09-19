@@ -1,0 +1,31 @@
+id,teks_ulasan,label_asli
+1,"Sesuai standar, tidak ada yang istimewa",netral
+2,"Barang sesuai foto, tidak mengecewakan",positif
+3,"Ukuran tidak sesuai deskripsi, terlalu kecil",negatif
+4,"Baru terima, belum dipakai lama",netral
+5,"Sudah beli beberapa kali, selalu puas",positif
+6,"Standar saja, tidak buruk tidak juga istimewa",netral
+7,Sangat cepat sampai dan sesuai pesanan,positif
+8,"Produk sangat bagus, kualitas kayu solid dan rapi",positif
+9,Warna tidak sesuai dengan foto yang ditampilkan,negatif
+10,"Pengerjaan detail dan rapi, terima kasih",positif
+11,Cukup oke untuk harga segini,netral
+12,"Pengiriman normal, sesuai estimasi",netral
+13,Warna agak beda tipis tapi masih wajar,netral
+14,Pelayanan lambat merespon komplain,negatif
+15,"Produk seperti biasa, tidak ada masalah",netral
+16,"Masih dalam tahap pemakaian, belum bisa menilai",netral
+17,"Tidak akan beli lagi, sangat mengecewakan",negatif
+18,Kayu terasa kokoh dan finishing halus,positif
+19,Finishing kasar dan banyak serpihan kayu,negatif
+20,"Kemasan standar, isinya sesuai pesanan",netral
+21,Harga mahal tapi kualitas biasa saja,negatif
+22,"Kualitas kayu kurang bagus, gampang retak",negatif
+23,"Harga sebanding dengan kualitas, recommended!",positif
+24,Packing buruk sehingga barang penyok,negatif
+25,Desain elegan dan cocok untuk ruang tamu saya,positif
+26,"Pengiriman cepat, packing aman, sangat puas",positif
+27,"Barang sudah sampai, belum sempat dicoba",netral
+28,"Pengiriman lama sekali, hampir sebulan",negatif
+29,Pelayanan penjual ramah dan responsif,positif
+30,"Barang datang dalam kondisi rusak, kecewa berat",negatif
